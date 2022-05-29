@@ -11,3 +11,4 @@
 **output**  
 &ensp;&ensp;**simple interest** = p\*t\*r  
 
+_© 2022 Huanyu Li😊_
